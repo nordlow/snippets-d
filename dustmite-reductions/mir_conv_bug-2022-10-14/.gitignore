@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/dustmite-mir-conv-bug
+dustmite-mir-conv-bug.so
+dustmite-mir-conv-bug.dylib
+dustmite-mir-conv-bug.dll
+dustmite-mir-conv-bug.a
+dustmite-mir-conv-bug.lib
+dustmite-mir-conv-bug-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst

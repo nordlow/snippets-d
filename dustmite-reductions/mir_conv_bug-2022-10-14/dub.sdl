@@ -1,0 +1,5 @@
+name "dustmite-mir-conv-bug"
+description "Dustmiting of mir bug"
+authors "Per Nordlöw"
+copyright "Copyright © 2022, Per Nordlöw"
+dependency "mir-ion" version="*"
